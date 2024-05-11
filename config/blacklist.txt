@@ -1,0 +1,9 @@
+.repl.co
+erik.red
+.tk
+.ga
+.ml
+.gq
+.cf
+bonziworld.co
+onrender.com
