@@ -1,9 +1,9 @@
 {
   "port":80,
-  "godword":"PastuleWorld",
-  "kingword":"PastuleWorld",
-  "altlimit": 4,
-  "slowmode": 1000,
+  "godword":"!#(#R(EID@D(QZjqgGTm6a70KDsG4wBtTcLUfg1uJ118ZjKxD6N09jq8FJZK24mzj2RuL5po9Ybhb0a9xEav32KMaPJ3nGW3CwYGQgSbe5ZrFpO9@#$*$()@$",
+  "kingword":"#$!@#!E500Utyh1DQbxclDYPOvBDsE07gK9n75ly5LJdKUWAWho98URYWZdGIgBRf0t0UKd639IKR72tqC6V8Jt5PlJr0D3gy383sF5W1R8_@$*$@()@$*()@$",
+  "altlimit": 8,
+  "slowmode": 100,
   "namelimit": 100,
-  "charlimit": 5000
+  "charlimit": 50000
 }
